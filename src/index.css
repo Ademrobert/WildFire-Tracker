@@ -50,6 +50,7 @@ body {
 }
 
 .location-info {
+  font-family: 'Courier New', Courier, monospace;
   position: absolute;
   top: 80px;
   right: 50px;
